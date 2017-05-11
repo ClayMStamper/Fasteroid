@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9b1603d990c6a6445b172d8d07ed7bc5
+timeCreated: 1494270299
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - AC Thermes
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1e6975a42e5c3ab4282b0cf7d56c53e7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
